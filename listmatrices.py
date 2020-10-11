@@ -6,3 +6,5 @@ class Matrix:
     
     def addMatrix(self):
         pass
+    def subtractMatrix(self, matrix):
+        pass
